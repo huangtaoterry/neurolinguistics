@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Huang Tao
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master student of cognitive neuroscience
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Institute of Cognitive Neuroscience/Center for Language and Brain, Higher School of Economics, Moscow, Russia
+  url: "https://neuro.hse.ru/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest is studying how language is presented and processed in the brain by EEG/fMRI data of aphasia people.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neruolignuistics
+- neruinmaging methods: EEG/fMRI
+- Brain connectivity and Network analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Msc in Cognitive Neuroscience
+    institution: Higher School of Economics, Moscow, Russia
+    year: 2021
+  - course: MEng in Geological engneering 
+    institution: Tongji University, Shanghai, China
+    year: 2019
+  - course: BSc in Geoinformatics
+    institution: China Univeristy of Geoscience, Wuhan
     year: 2008
 
 # Social/Academic Networking
